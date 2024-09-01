@@ -13,7 +13,7 @@ fi
 
 cd /PyroBot
 pip3 install -U -r requirements.txt --force-reinstall
-echo "Starting Bot....✨"
+echo "Starting Bot...."
 python3 bot.py
 
 
